@@ -1,0 +1,501 @@
+order_id,date,month,month_num,product,category,qty,unit_price,discount_pct,revenue,city,channel,rating
+ELK-20132,2024-01-01,January,1,Keyboard Mechanical,Aksesoris,1,899000,0,899000,Jakarta,Website,4.1
+ELK-20151,2024-01-01,January,1,Samsung Galaxy A55,Smartphone,1,5499000,0,5499000,Medan,Tokopedia,4.1
+ELK-20273,2024-01-01,January,1,Samsung Tab A9,Tablet,1,3299000,15,2804150,Surabaya,Website,4.0
+ELK-20450,2024-01-01,January,1,Mouse Logitech MX,Aksesoris,2,1299000,10,2338200,Bandung,Tokopedia,4.4
+ELK-20297,2024-01-03,January,1,Samsung Galaxy A55,Smartphone,1,5499000,5,5224050,Medan,Website,4.6
+ELK-20054,2024-01-06,January,1,TWS Earbuds Xiaomi,Audio,1,399000,15,339150,Makassar,Tokopedia,4.4
+ELK-20149,2024-01-06,January,1,iPad Air,Tablet,2,9999000,10,17998200,Semarang,Website,4.7
+ELK-20389,2024-01-06,January,1,Laptop ASUS VivoBook,Laptop,1,8999000,0,8999000,Semarang,Tokopedia,4.5
+ELK-20124,2024-01-08,January,1,Samsung Tab A9,Tablet,3,3299000,0,9897000,Palembang,Shopee,4.7
+ELK-20322,2024-01-08,January,1,Laptop ASUS VivoBook,Laptop,1,8999000,5,8549050,Semarang,Shopee,4.3
+ELK-20083,2024-01-10,January,1,TWS Earbuds Xiaomi,Audio,1,399000,10,359100,Palembang,Shopee,4.9
+ELK-20433,2024-01-11,January,1,Keyboard Mechanical,Aksesoris,1,899000,20,719200,Makassar,Tokopedia,4.0
+ELK-20307,2024-01-12,January,1,Keyboard Mechanical,Aksesoris,1,899000,20,719200,Medan,Shopee,4.7
+ELK-20426,2024-01-12,January,1,Sony WH-1000XM5,Audio,3,4299000,20,10317600,Palembang,Shopee,4.7
+ELK-20103,2024-01-13,January,1,Laptop Lenovo IdeaPad,Laptop,1,7499000,5,7124050,Yogyakarta,Shopee,3.9
+ELK-20201,2024-01-13,January,1,Keyboard Mechanical,Aksesoris,1,899000,0,899000,Palembang,Tokopedia,4.9
+ELK-20074,2024-01-14,January,1,Sony WH-1000XM5,Audio,2,4299000,0,8598000,Bandung,Shopee,4.8
+ELK-20270,2024-01-14,January,1,Sony WH-1000XM5,Audio,1,4299000,5,4084050,Makassar,Tokopedia,4.0
+ELK-20336,2024-01-15,January,1,Keyboard Mechanical,Aksesoris,2,899000,0,1798000,Semarang,Website,3.8
+ELK-20379,2024-01-15,January,1,Keyboard Mechanical,Aksesoris,1,899000,0,899000,Jakarta,Website,4.8
+ELK-20251,2024-01-16,January,1,iPad Air,Tablet,1,9999000,10,8999100,Makassar,Website,4.0
+ELK-20334,2024-01-16,January,1,Laptop Lenovo IdeaPad,Laptop,1,7499000,15,6374150,Jakarta,Website,4.4
+ELK-20127,2024-01-17,January,1,TWS Earbuds Xiaomi,Audio,1,399000,0,399000,Jakarta,Shopee,4.5
+ELK-20483,2024-01-18,January,1,Samsung Tab A9,Tablet,1,3299000,10,2969100,Bandung,Shopee,4.6
+ELK-20224,2024-01-19,January,1,iPhone 15,Smartphone,1,14999000,10,13499100,Bandung,Tokopedia,4.1
+ELK-20325,2024-01-19,January,1,Laptop ASUS VivoBook,Laptop,1,8999000,0,8999000,Semarang,Website,4.8
+ELK-20019,2024-01-20,January,1,Sony WH-1000XM5,Audio,1,4299000,20,3439200,Yogyakarta,Website,4.1
+ELK-20070,2024-01-20,January,1,iPad Air,Tablet,1,9999000,0,9999000,Semarang,Tokopedia,3.9
+ELK-20122,2024-01-20,January,1,Laptop ASUS VivoBook,Laptop,1,8999000,10,8099100,Surabaya,Instagram Shop,4.5
+ELK-20153,2024-01-20,January,1,Laptop Lenovo IdeaPad,Laptop,1,7499000,0,7499000,Medan,Tokopedia,4.7
+ELK-20244,2024-01-21,January,1,Samsung Galaxy A55,Smartphone,2,5499000,0,10998000,Semarang,Shopee,4.4
+ELK-20181,2024-01-22,January,1,Laptop Lenovo IdeaPad,Laptop,1,7499000,20,5999200,Medan,Tokopedia,4.5
+ELK-20439,2024-01-22,January,1,Keyboard Mechanical,Aksesoris,1,899000,15,764150,Surabaya,Website,4.1
+ELK-20206,2024-01-23,January,1,TWS Earbuds Xiaomi,Audio,1,399000,0,399000,Yogyakarta,Website,4.4
+ELK-20438,2024-01-23,January,1,Samsung Tab A9,Tablet,1,3299000,20,2639200,Medan,Shopee,4.3
+ELK-20053,2024-01-24,January,1,Mouse Logitech MX,Aksesoris,1,1299000,10,1169100,Jakarta,Shopee,4.0
+ELK-20017,2024-01-25,January,1,Sony WH-1000XM5,Audio,1,4299000,0,4299000,Yogyakarta,Shopee,4.8
+ELK-20495,2024-01-26,January,1,Sony WH-1000XM5,Audio,1,4299000,15,3654150,Medan,Tokopedia,4.3
+ELK-20417,2024-01-27,January,1,TWS Earbuds Xiaomi,Audio,1,399000,20,319200,Yogyakarta,Website,4.2
+ELK-20059,2024-01-28,January,1,Laptop Lenovo IdeaPad,Laptop,1,7499000,0,7499000,Makassar,Tokopedia,4.5
+ELK-20011,2024-01-29,January,1,Laptop Lenovo IdeaPad,Laptop,1,7499000,10,6749100,Makassar,Shopee,4.8
+ELK-20142,2024-01-29,January,1,Samsung Galaxy A55,Smartphone,1,5499000,20,4399200,Palembang,Shopee,4.7
+ELK-20393,2024-01-29,January,1,Keyboard Mechanical,Aksesoris,1,899000,0,899000,Makassar,Shopee,4.6
+ELK-20289,2024-01-30,January,1,iPhone 15,Smartphone,1,14999000,15,12749150,Surabaya,Website,4.5
+ELK-20422,2024-01-30,January,1,Mouse Logitech MX,Aksesoris,1,1299000,0,1299000,Makassar,Website,3.9
+ELK-20361,2024-02-01,February,2,TWS Earbuds Xiaomi,Audio,3,399000,5,1137150,Medan,Tokopedia,4.0
+ELK-20115,2024-02-02,February,2,TWS Earbuds Xiaomi,Audio,1,399000,20,319200,Surabaya,Instagram Shop,4.2
+ELK-20140,2024-02-02,February,2,Samsung Galaxy A55,Smartphone,1,5499000,0,5499000,Medan,Website,4.3
+ELK-20414,2024-02-03,February,2,TWS Earbuds Xiaomi,Audio,1,399000,15,339150,Makassar,Tokopedia,4.0
+ELK-20444,2024-02-03,February,2,iPad Air,Tablet,1,9999000,5,9499050,Semarang,Tokopedia,4.3
+ELK-20236,2024-02-04,February,2,Sony WH-1000XM5,Audio,1,4299000,15,3654150,Bandung,Shopee,4.0
+ELK-20381,2024-02-04,February,2,Samsung Galaxy A55,Smartphone,1,5499000,0,5499000,Surabaya,Tokopedia,4.5
+ELK-20313,2024-02-05,February,2,Laptop ASUS VivoBook,Laptop,2,8999000,0,17998000,Surabaya,Website,4.5
+ELK-20387,2024-02-06,February,2,Laptop Lenovo IdeaPad,Laptop,3,7499000,20,17997600,Yogyakarta,Shopee,4.5
+ELK-20392,2024-02-06,February,2,Laptop ASUS VivoBook,Laptop,2,8999000,20,14398400,Bandung,Website,3.8
+ELK-20055,2024-02-07,February,2,iPhone 15,Smartphone,2,14999000,5,28498100,Bandung,Shopee,4.2
+ELK-20217,2024-02-08,February,2,Laptop Lenovo IdeaPad,Laptop,1,7499000,15,6374150,Yogyakarta,Tokopedia,4.6
+ELK-20282,2024-02-08,February,2,iPhone 15,Smartphone,1,14999000,10,13499100,Bandung,Tokopedia,4.5
+ELK-20180,2024-02-09,February,2,Sony WH-1000XM5,Audio,1,4299000,0,4299000,Makassar,Shopee,4.2
+ELK-20022,2024-02-11,February,2,Samsung Tab A9,Tablet,1,3299000,10,2969100,Makassar,Tokopedia,4.2
+ELK-20052,2024-02-11,February,2,Laptop ASUS VivoBook,Laptop,3,8999000,0,26997000,Palembang,Shopee,4.2
+ELK-20078,2024-02-11,February,2,Sony WH-1000XM5,Audio,1,4299000,10,3869100,Yogyakarta,Shopee,4.3
+ELK-20308,2024-02-12,February,2,Samsung Tab A9,Tablet,2,3299000,0,6598000,Palembang,Tokopedia,4.1
+ELK-20337,2024-02-12,February,2,TWS Earbuds Xiaomi,Audio,1,399000,0,399000,Jakarta,Shopee,4.8
+ELK-20419,2024-02-13,February,2,Sony WH-1000XM5,Audio,1,4299000,10,3869100,Yogyakarta,Shopee,3.9
+ELK-20001,2024-02-14,February,2,TWS Earbuds Xiaomi,Audio,1,399000,20,319200,Yogyakarta,Shopee,4.6
+ELK-20177,2024-02-14,February,2,Samsung Galaxy A55,Smartphone,1,5499000,0,5499000,Surabaya,Tokopedia,4.7
+ELK-20227,2024-02-14,February,2,Samsung Tab A9,Tablet,1,3299000,15,2804150,Bandung,Tokopedia,4.7
+ELK-20255,2024-02-14,February,2,Mouse Logitech MX,Aksesoris,1,1299000,20,1039200,Medan,Shopee,4.9
+ELK-20002,2024-02-15,February,2,Mouse Logitech MX,Aksesoris,1,1299000,10,1169100,Medan,Shopee,4.5
+ELK-20216,2024-02-17,February,2,Samsung Tab A9,Tablet,1,3299000,15,2804150,Yogyakarta,Shopee,4.0
+ELK-20401,2024-02-17,February,2,iPad Air,Tablet,1,9999000,0,9999000,Jakarta,Tokopedia,4.0
+ELK-20051,2024-02-19,February,2,Laptop Lenovo IdeaPad,Laptop,1,7499000,15,6374150,Palembang,Website,4.5
+ELK-20239,2024-02-19,February,2,Keyboard Mechanical,Aksesoris,1,899000,0,899000,Yogyakarta,Shopee,4.2
+ELK-20488,2024-02-19,February,2,Laptop ASUS VivoBook,Laptop,1,8999000,20,7199200,Palembang,Shopee,4.2
+ELK-20148,2024-02-20,February,2,Samsung Tab A9,Tablet,1,3299000,0,3299000,Palembang,Tokopedia,4.2
+ELK-20240,2024-02-20,February,2,Samsung Tab A9,Tablet,1,3299000,0,3299000,Bandung,Website,4.8
+ELK-20394,2024-02-22,February,2,Laptop Lenovo IdeaPad,Laptop,1,7499000,20,5999200,Surabaya,Shopee,4.6
+ELK-20032,2024-02-23,February,2,TWS Earbuds Xiaomi,Audio,1,399000,0,399000,Jakarta,Instagram Shop,4.3
+ELK-20091,2024-02-23,February,2,TWS Earbuds Xiaomi,Audio,2,399000,0,798000,Yogyakarta,Shopee,3.9
+ELK-20380,2024-02-23,February,2,Samsung Tab A9,Tablet,1,3299000,0,3299000,Yogyakarta,Website,4.3
+ELK-20100,2024-02-24,February,2,Samsung Galaxy A55,Smartphone,1,5499000,0,5499000,Medan,Website,3.9
+ELK-20253,2024-02-24,February,2,Sony WH-1000XM5,Audio,1,4299000,0,4299000,Jakarta,Website,3.9
+ELK-20237,2024-02-25,February,2,iPhone 15,Smartphone,1,14999000,15,12749150,Semarang,Shopee,4.2
+ELK-20457,2024-02-25,February,2,Samsung Galaxy A55,Smartphone,2,5499000,5,10448100,Surabaya,Tokopedia,4.1
+ELK-20464,2024-02-25,February,2,Laptop Lenovo IdeaPad,Laptop,1,7499000,0,7499000,Semarang,Shopee,4.5
+ELK-20343,2024-02-27,February,2,iPhone 15,Smartphone,3,14999000,15,38247450,Semarang,Tokopedia,4.8
+ELK-20367,2024-02-27,February,2,Laptop Lenovo IdeaPad,Laptop,1,7499000,15,6374150,Medan,Shopee,4.8
+ELK-20039,2024-02-28,February,2,Sony WH-1000XM5,Audio,1,4299000,10,3869100,Surabaya,Shopee,4.7
+ELK-20300,2024-02-28,February,2,Laptop ASUS VivoBook,Laptop,2,8999000,0,17998000,Semarang,Tokopedia,4.9
+ELK-20276,2024-03-01,March,3,Samsung Galaxy A55,Smartphone,2,5499000,15,9348300,Bandung,Shopee,4.9
+ELK-20447,2024-03-01,March,3,Laptop Lenovo IdeaPad,Laptop,1,7499000,0,7499000,Jakarta,Shopee,4.3
+ELK-20411,2024-03-03,March,3,iPhone 15,Smartphone,1,14999000,0,14999000,Palembang,Shopee,4.6
+ELK-20491,2024-03-03,March,3,Laptop Lenovo IdeaPad,Laptop,1,7499000,20,5999200,Medan,Shopee,4.4
+ELK-20012,2024-03-05,March,3,Sony WH-1000XM5,Audio,1,4299000,20,3439200,Palembang,Instagram Shop,4.0
+ELK-20150,2024-03-05,March,3,Samsung Galaxy A55,Smartphone,1,5499000,15,4674150,Yogyakarta,Instagram Shop,4.9
+ELK-20109,2024-03-06,March,3,iPad Air,Tablet,1,9999000,0,9999000,Surabaya,Shopee,4.9
+ELK-20199,2024-03-06,March,3,Mouse Logitech MX,Aksesoris,1,1299000,15,1104150,Makassar,Shopee,4.0
+ELK-20035,2024-03-07,March,3,Samsung Tab A9,Tablet,1,3299000,20,2639200,Yogyakarta,Shopee,4.9
+ELK-20087,2024-03-07,March,3,iPad Air,Tablet,1,9999000,0,9999000,Yogyakarta,Website,4.6
+ELK-20118,2024-03-07,March,3,TWS Earbuds Xiaomi,Audio,1,399000,20,319200,Jakarta,Shopee,4.4
+ELK-20123,2024-03-07,March,3,Sony WH-1000XM5,Audio,1,4299000,20,3439200,Jakarta,Tokopedia,4.8
+ELK-20248,2024-03-07,March,3,Mouse Logitech MX,Aksesoris,1,1299000,0,1299000,Surabaya,Shopee,4.9
+ELK-20281,2024-03-08,March,3,iPhone 15,Smartphone,1,14999000,10,13499100,Jakarta,Website,3.8
+ELK-20473,2024-03-08,March,3,Samsung Galaxy A55,Smartphone,1,5499000,15,4674150,Semarang,Website,4.8
+ELK-20220,2024-03-09,March,3,iPhone 15,Smartphone,3,14999000,5,42747150,Semarang,Tokopedia,4.2
+ELK-20305,2024-03-09,March,3,iPhone 15,Smartphone,1,14999000,20,11999200,Makassar,Shopee,4.7
+ELK-20146,2024-03-10,March,3,Samsung Tab A9,Tablet,1,3299000,10,2969100,Palembang,Tokopedia,4.6
+ELK-20323,2024-03-10,March,3,Laptop Lenovo IdeaPad,Laptop,1,7499000,10,6749100,Palembang,Tokopedia,4.3
+ELK-20172,2024-03-12,March,3,Mouse Logitech MX,Aksesoris,1,1299000,0,1299000,Medan,Instagram Shop,4.8
+ELK-20119,2024-03-13,March,3,Laptop Lenovo IdeaPad,Laptop,1,7499000,10,6749100,Bandung,Tokopedia,4.3
+ELK-20213,2024-03-13,March,3,iPad Air,Tablet,1,9999000,10,8999100,Palembang,Tokopedia,4.2
+ELK-20210,2024-03-14,March,3,Laptop Lenovo IdeaPad,Laptop,1,7499000,15,6374150,Surabaya,Tokopedia,4.1
+ELK-20357,2024-03-14,March,3,Sony WH-1000XM5,Audio,1,4299000,5,4084050,Semarang,Tokopedia,4.9
+ELK-20353,2024-03-15,March,3,Keyboard Mechanical,Aksesoris,1,899000,10,809100,Palembang,Shopee,4.6
+ELK-20335,2024-03-16,March,3,Samsung Galaxy A55,Smartphone,1,5499000,5,5224050,Jakarta,Shopee,3.9
+ELK-20046,2024-03-17,March,3,Keyboard Mechanical,Aksesoris,1,899000,0,899000,Jakarta,Website,4.6
+ELK-20062,2024-03-17,March,3,iPhone 15,Smartphone,1,14999000,20,11999200,Jakarta,Shopee,4.9
+ELK-20129,2024-03-17,March,3,iPhone 15,Smartphone,1,14999000,5,14249050,Semarang,Shopee,4.0
+ELK-20076,2024-03-19,March,3,Samsung Galaxy A55,Smartphone,1,5499000,0,5499000,Jakarta,Tokopedia,4.1
+ELK-20135,2024-03-20,March,3,Keyboard Mechanical,Aksesoris,1,899000,10,809100,Palembang,Tokopedia,4.8
+ELK-20456,2024-03-20,March,3,Mouse Logitech MX,Aksesoris,1,1299000,10,1169100,Makassar,Instagram Shop,4.9
+ELK-20468,2024-03-21,March,3,Samsung Tab A9,Tablet,1,3299000,20,2639200,Makassar,Tokopedia,3.8
+ELK-20479,2024-03-21,March,3,Mouse Logitech MX,Aksesoris,1,1299000,0,1299000,Semarang,Tokopedia,4.1
+ELK-20413,2024-03-22,March,3,TWS Earbuds Xiaomi,Audio,1,399000,20,319200,Palembang,Website,4.5
+ELK-20418,2024-03-22,March,3,iPad Air,Tablet,1,9999000,0,9999000,Palembang,Tokopedia,4.5
+ELK-20430,2024-03-22,March,3,iPhone 15,Smartphone,1,14999000,20,11999200,Semarang,Shopee,5.0
+ELK-20440,2024-03-22,March,3,Laptop ASUS VivoBook,Laptop,1,8999000,5,8549050,Medan,Website,4.3
+ELK-20041,2024-03-25,March,3,Laptop ASUS VivoBook,Laptop,1,8999000,15,7649150,Jakarta,Shopee,3.9
+ELK-20030,2024-03-26,March,3,Keyboard Mechanical,Aksesoris,1,899000,10,809100,Medan,Tokopedia,4.8
+ELK-20047,2024-03-26,March,3,Sony WH-1000XM5,Audio,1,4299000,20,3439200,Medan,Shopee,4.7
+ELK-20145,2024-03-27,March,3,Mouse Logitech MX,Aksesoris,1,1299000,0,1299000,Palembang,Shopee,4.6
+ELK-20194,2024-03-27,March,3,Sony WH-1000XM5,Audio,1,4299000,5,4084050,Medan,Tokopedia,4.1
+ELK-20277,2024-03-27,March,3,Samsung Tab A9,Tablet,1,3299000,15,2804150,Yogyakarta,Tokopedia,4.5
+ELK-20287,2024-03-27,March,3,Samsung Galaxy A55,Smartphone,1,5499000,10,4949100,Yogyakarta,Tokopedia,4.7
+ELK-20190,2024-03-28,March,3,Mouse Logitech MX,Aksesoris,1,1299000,0,1299000,Bandung,Shopee,4.3
+ELK-20197,2024-03-29,March,3,Laptop Lenovo IdeaPad,Laptop,4,7499000,15,25496600,Makassar,Website,4.4
+ELK-20250,2024-03-29,March,3,Laptop Lenovo IdeaPad,Laptop,1,7499000,0,7499000,Jakarta,Website,3.8
+ELK-20008,2024-03-31,March,3,Keyboard Mechanical,Aksesoris,1,899000,20,719200,Bandung,Tokopedia,3.8
+ELK-20036,2024-04-01,April,4,Sony WH-1000XM5,Audio,2,4299000,5,8168100,Medan,Tokopedia,4.5
+ELK-20167,2024-04-01,April,4,Laptop ASUS VivoBook,Laptop,1,8999000,20,7199200,Jakarta,Shopee,4.0
+ELK-20344,2024-04-01,April,4,Keyboard Mechanical,Aksesoris,1,899000,5,854050,Semarang,Website,4.6
+ELK-20421,2024-04-01,April,4,Laptop Lenovo IdeaPad,Laptop,1,7499000,10,6749100,Palembang,Shopee,3.8
+ELK-20061,2024-04-02,April,4,TWS Earbuds Xiaomi,Audio,1,399000,0,399000,Makassar,Tokopedia,4.7
+ELK-20435,2024-04-02,April,4,Laptop Lenovo IdeaPad,Laptop,2,7499000,20,11998400,Semarang,Instagram Shop,4.5
+ELK-20090,2024-04-03,April,4,Laptop ASUS VivoBook,Laptop,2,8999000,20,14398400,Makassar,Instagram Shop,4.6
+ELK-20184,2024-04-03,April,4,Laptop Lenovo IdeaPad,Laptop,1,7499000,0,7499000,Bandung,Shopee,4.8
+ELK-20363,2024-04-03,April,4,Keyboard Mechanical,Aksesoris,2,899000,0,1798000,Surabaya,Shopee,4.8
+ELK-20364,2024-04-03,April,4,Samsung Galaxy A55,Smartphone,1,5499000,10,4949100,Surabaya,Tokopedia,4.4
+ELK-20126,2024-04-04,April,4,Laptop ASUS VivoBook,Laptop,1,8999000,15,7649150,Palembang,Tokopedia,4.5
+ELK-20154,2024-04-04,April,4,Samsung Tab A9,Tablet,3,3299000,5,9402150,Palembang,Shopee,4.2
+ELK-20208,2024-04-04,April,4,Keyboard Mechanical,Aksesoris,1,899000,10,809100,Bandung,Tokopedia,4.3
+ELK-20303,2024-04-06,April,4,Samsung Tab A9,Tablet,1,3299000,5,3134050,Medan,Shopee,4.2
+ELK-20027,2024-04-08,April,4,Laptop ASUS VivoBook,Laptop,1,8999000,20,7199200,Makassar,Shopee,4.7
+ELK-20072,2024-04-10,April,4,Sony WH-1000XM5,Audio,1,4299000,0,4299000,Bandung,Shopee,4.0
+ELK-20342,2024-04-10,April,4,Sony WH-1000XM5,Audio,1,4299000,10,3869100,Yogyakarta,Website,4.7
+ELK-20026,2024-04-11,April,4,Sony WH-1000XM5,Audio,1,4299000,0,4299000,Semarang,Shopee,5.0
+ELK-20232,2024-04-11,April,4,iPad Air,Tablet,1,9999000,10,8999100,Makassar,Tokopedia,4.4
+ELK-20293,2024-04-11,April,4,TWS Earbuds Xiaomi,Audio,2,399000,10,718200,Jakarta,Tokopedia,4.0
+ELK-20366,2024-04-12,April,4,Samsung Galaxy A55,Smartphone,1,5499000,0,5499000,Palembang,Website,4.5
+ELK-20164,2024-04-13,April,4,Samsung Galaxy A55,Smartphone,1,5499000,5,5224050,Yogyakarta,Website,5.0
+ELK-20268,2024-04-14,April,4,Keyboard Mechanical,Aksesoris,1,899000,0,899000,Jakarta,Tokopedia,4.4
+ELK-20175,2024-04-15,April,4,Samsung Galaxy A55,Smartphone,1,5499000,15,4674150,Jakarta,Tokopedia,5.0
+ELK-20301,2024-04-15,April,4,TWS Earbuds Xiaomi,Audio,1,399000,10,359100,Medan,Shopee,3.9
+ELK-20371,2024-04-15,April,4,Samsung Tab A9,Tablet,1,3299000,10,2969100,Makassar,Instagram Shop,3.8
+ELK-20065,2024-04-16,April,4,Samsung Galaxy A55,Smartphone,1,5499000,10,4949100,Medan,Instagram Shop,4.0
+ELK-20085,2024-04-16,April,4,Samsung Galaxy A55,Smartphone,1,5499000,15,4674150,Makassar,Shopee,4.4
+ELK-20372,2024-04-16,April,4,Samsung Tab A9,Tablet,1,3299000,0,3299000,Bandung,Tokopedia,4.4
+ELK-20461,2024-04-16,April,4,Sony WH-1000XM5,Audio,1,4299000,20,3439200,Jakarta,Shopee,4.0
+ELK-20358,2024-04-18,April,4,Laptop ASUS VivoBook,Laptop,1,8999000,10,8099100,Medan,Instagram Shop,4.8
+ELK-20373,2024-04-18,April,4,Laptop ASUS VivoBook,Laptop,3,8999000,5,25647150,Makassar,Website,4.2
+ELK-20242,2024-04-19,April,4,Mouse Logitech MX,Aksesoris,1,1299000,10,1169100,Bandung,Shopee,4.7
+ELK-20349,2024-04-19,April,4,Laptop Lenovo IdeaPad,Laptop,1,7499000,5,7124050,Yogyakarta,Tokopedia,4.1
+ELK-20496,2024-04-19,April,4,Laptop Lenovo IdeaPad,Laptop,1,7499000,15,6374150,Makassar,Website,3.9
+ELK-20003,2024-04-20,April,4,Sony WH-1000XM5,Audio,1,4299000,10,3869100,Medan,Tokopedia,4.6
+ELK-20125,2024-04-20,April,4,iPhone 15,Smartphone,1,14999000,15,12749150,Medan,Tokopedia,4.6
+ELK-20432,2024-04-20,April,4,Laptop Lenovo IdeaPad,Laptop,1,7499000,0,7499000,Semarang,Instagram Shop,4.0
+ELK-20428,2024-04-21,April,4,Laptop ASUS VivoBook,Laptop,2,8999000,20,14398400,Semarang,Tokopedia,3.8
+ELK-20487,2024-04-22,April,4,Keyboard Mechanical,Aksesoris,1,899000,20,719200,Yogyakarta,Tokopedia,4.4
+ELK-20195,2024-04-23,April,4,Mouse Logitech MX,Aksesoris,1,1299000,15,1104150,Surabaya,Website,4.4
+ELK-20252,2024-04-24,April,4,iPad Air,Tablet,1,9999000,0,9999000,Makassar,Website,4.1
+ELK-20400,2024-04-24,April,4,TWS Earbuds Xiaomi,Audio,3,399000,0,1197000,Medan,Tokopedia,4.4
+ELK-20264,2024-04-28,April,4,iPhone 15,Smartphone,1,14999000,0,14999000,Palembang,Shopee,4.6
+ELK-20266,2024-04-28,April,4,Mouse Logitech MX,Aksesoris,1,1299000,5,1234050,Medan,Shopee,4.6
+ELK-20416,2024-04-30,April,4,TWS Earbuds Xiaomi,Audio,1,399000,0,399000,Makassar,Tokopedia,4.7
+ELK-20101,2024-05-03,May,5,TWS Earbuds Xiaomi,Audio,1,399000,0,399000,Surabaya,Tokopedia,4.1
+ELK-20080,2024-05-04,May,5,Samsung Galaxy A55,Smartphone,1,5499000,0,5499000,Medan,Tokopedia,4.5
+ELK-20141,2024-05-05,May,5,iPad Air,Tablet,1,9999000,0,9999000,Semarang,Tokopedia,3.9
+ELK-20165,2024-05-05,May,5,iPhone 15,Smartphone,1,14999000,0,14999000,Makassar,Website,4.3
+ELK-20221,2024-05-06,May,5,Samsung Tab A9,Tablet,1,3299000,5,3134050,Palembang,Shopee,4.7
+ELK-20170,2024-05-07,May,5,TWS Earbuds Xiaomi,Audio,1,399000,10,359100,Surabaya,Website,3.9
+ELK-20312,2024-05-07,May,5,Samsung Tab A9,Tablet,1,3299000,10,2969100,Yogyakarta,Tokopedia,4.8
+ELK-20152,2024-05-09,May,5,iPhone 15,Smartphone,1,14999000,5,14249050,Jakarta,Instagram Shop,4.7
+ELK-20207,2024-05-10,May,5,iPhone 15,Smartphone,1,14999000,0,14999000,Medan,Shopee,3.9
+ELK-20306,2024-05-10,May,5,Samsung Galaxy A55,Smartphone,2,5499000,15,9348300,Medan,Shopee,4.9
+ELK-20498,2024-05-10,May,5,Mouse Logitech MX,Aksesoris,1,1299000,15,1104150,Surabaya,Tokopedia,3.9
+ELK-20493,2024-05-11,May,5,Samsung Tab A9,Tablet,1,3299000,0,3299000,Yogyakarta,Instagram Shop,4.8
+ELK-20261,2024-05-13,May,5,Laptop ASUS VivoBook,Laptop,1,8999000,5,8549050,Surabaya,Tokopedia,4.2
+ELK-20489,2024-05-13,May,5,Laptop Lenovo IdeaPad,Laptop,1,7499000,20,5999200,Makassar,Website,4.1
+ELK-20143,2024-05-14,May,5,Samsung Tab A9,Tablet,1,3299000,5,3134050,Jakarta,Instagram Shop,4.6
+ELK-20327,2024-05-14,May,5,Laptop ASUS VivoBook,Laptop,1,8999000,5,8549050,Makassar,Shopee,4.3
+ELK-20365,2024-05-14,May,5,Keyboard Mechanical,Aksesoris,2,899000,5,1708100,Yogyakarta,Shopee,4.9
+ELK-20162,2024-05-15,May,5,iPad Air,Tablet,1,9999000,0,9999000,Medan,Shopee,4.8
+ELK-20434,2024-05-15,May,5,Keyboard Mechanical,Aksesoris,4,899000,10,3236400,Bandung,Shopee,4.4
+ELK-20005,2024-05-17,May,5,Keyboard Mechanical,Aksesoris,2,899000,0,1798000,Yogyakarta,Tokopedia,5.0
+ELK-20092,2024-05-17,May,5,Keyboard Mechanical,Aksesoris,1,899000,5,854050,Makassar,Website,4.7
+ELK-20178,2024-05-17,May,5,Sony WH-1000XM5,Audio,2,4299000,5,8168100,Bandung,Shopee,4.5
+ELK-20081,2024-05-18,May,5,TWS Earbuds Xiaomi,Audio,1,399000,15,339150,Medan,Tokopedia,4.6
+ELK-20187,2024-05-18,May,5,Mouse Logitech MX,Aksesoris,1,1299000,5,1234050,Palembang,Tokopedia,4.7
+ELK-20176,2024-05-19,May,5,iPad Air,Tablet,1,9999000,0,9999000,Surabaya,Tokopedia,3.8
+ELK-20093,2024-05-20,May,5,Samsung Galaxy A55,Smartphone,3,5499000,0,16497000,Surabaya,Tokopedia,4.3
+ELK-20044,2024-05-21,May,5,Sony WH-1000XM5,Audio,1,4299000,0,4299000,Medan,Website,4.0
+ELK-20117,2024-05-21,May,5,iPad Air,Tablet,1,9999000,0,9999000,Bandung,Shopee,5.0
+ELK-20284,2024-05-22,May,5,Mouse Logitech MX,Aksesoris,1,1299000,0,1299000,Makassar,Website,3.9
+ELK-20198,2024-05-23,May,5,iPhone 15,Smartphone,1,14999000,5,14249050,Jakarta,Website,4.3
+ELK-20174,2024-05-24,May,5,Keyboard Mechanical,Aksesoris,1,899000,0,899000,Medan,Website,5.0
+ELK-20318,2024-05-27,May,5,Samsung Galaxy A55,Smartphone,2,5499000,0,10998000,Surabaya,Tokopedia,4.3
+ELK-20024,2024-05-28,May,5,iPad Air,Tablet,1,9999000,20,7999200,Bandung,Tokopedia,4.6
+ELK-20094,2024-05-28,May,5,Mouse Logitech MX,Aksesoris,2,1299000,10,2338200,Medan,Website,4.8
+ELK-20238,2024-05-28,May,5,TWS Earbuds Xiaomi,Audio,2,399000,0,798000,Surabaya,Tokopedia,3.9
+ELK-20071,2024-05-29,May,5,Laptop ASUS VivoBook,Laptop,3,8999000,5,25647150,Makassar,Tokopedia,4.4
+ELK-20211,2024-05-29,May,5,Samsung Tab A9,Tablet,2,3299000,0,6598000,Semarang,Shopee,4.9
+ELK-20378,2024-05-30,May,5,Keyboard Mechanical,Aksesoris,1,899000,0,899000,Yogyakarta,Tokopedia,4.6
+ELK-20427,2024-05-30,May,5,TWS Earbuds Xiaomi,Audio,1,399000,0,399000,Yogyakarta,Tokopedia,4.9
+ELK-20014,2024-05-31,May,5,Laptop ASUS VivoBook,Laptop,1,8999000,0,8999000,Yogyakarta,Tokopedia,4.0
+ELK-20209,2024-06-01,June,6,Samsung Galaxy A55,Smartphone,1,5499000,0,5499000,Surabaya,Website,4.7
+ELK-20397,2024-06-01,June,6,Laptop ASUS VivoBook,Laptop,4,8999000,10,32396400,Bandung,Shopee,4.7
+ELK-20425,2024-06-01,June,6,iPad Air,Tablet,1,9999000,0,9999000,Semarang,Shopee,4.8
+ELK-20497,2024-06-01,June,6,Laptop Lenovo IdeaPad,Laptop,1,7499000,0,7499000,Surabaya,Tokopedia,4.2
+ELK-20291,2024-06-03,June,6,TWS Earbuds Xiaomi,Audio,2,399000,0,798000,Semarang,Tokopedia,4.0
+ELK-20294,2024-06-04,June,6,Sony WH-1000XM5,Audio,1,4299000,0,4299000,Yogyakarta,Shopee,4.9
+ELK-20073,2024-06-05,June,6,Keyboard Mechanical,Aksesoris,1,899000,5,854050,Medan,Shopee,4.9
+ELK-20168,2024-06-05,June,6,Sony WH-1000XM5,Audio,4,4299000,10,15476400,Bandung,Tokopedia,4.1
+ELK-20202,2024-06-05,June,6,Keyboard Mechanical,Aksesoris,1,899000,10,809100,Palembang,Instagram Shop,4.5
+ELK-20102,2024-06-07,June,6,Laptop ASUS VivoBook,Laptop,1,8999000,15,7649150,Medan,Tokopedia,3.9
+ELK-20278,2024-06-07,June,6,iPhone 15,Smartphone,1,14999000,0,14999000,Surabaya,Shopee,3.9
+ELK-20384,2024-06-08,June,6,iPhone 15,Smartphone,2,14999000,0,29998000,Jakarta,Instagram Shop,4.1
+ELK-20486,2024-06-08,June,6,Mouse Logitech MX,Aksesoris,1,1299000,10,1169100,Makassar,Shopee,4.8
+ELK-20021,2024-06-09,June,6,Laptop Lenovo IdeaPad,Laptop,1,7499000,20,5999200,Medan,Shopee,4.3
+ELK-20116,2024-06-09,June,6,Mouse Logitech MX,Aksesoris,1,1299000,0,1299000,Surabaya,Shopee,5.0
+ELK-20218,2024-06-09,June,6,iPad Air,Tablet,1,9999000,20,7999200,Semarang,Shopee,4.5
+ELK-20465,2024-06-09,June,6,Samsung Galaxy A55,Smartphone,1,5499000,0,5499000,Bandung,Shopee,4.2
+ELK-20234,2024-06-12,June,6,iPhone 15,Smartphone,1,14999000,0,14999000,Bandung,Shopee,3.8
+ELK-20084,2024-06-13,June,6,Keyboard Mechanical,Aksesoris,1,899000,0,899000,Surabaya,Instagram Shop,4.3
+ELK-20283,2024-06-14,June,6,Laptop Lenovo IdeaPad,Laptop,2,7499000,20,11998400,Medan,Shopee,4.6
+ELK-20314,2024-06-14,June,6,Sony WH-1000XM5,Audio,1,4299000,15,3654150,Semarang,Website,4.9
+ELK-20288,2024-06-15,June,6,iPhone 15,Smartphone,1,14999000,0,14999000,Makassar,Tokopedia,4.6
+ELK-20388,2024-06-17,June,6,Sony WH-1000XM5,Audio,1,4299000,5,4084050,Palembang,Tokopedia,4.6
+ELK-20139,2024-06-18,June,6,iPad Air,Tablet,1,9999000,15,8499150,Semarang,Shopee,4.1
+ELK-20267,2024-06-18,June,6,Mouse Logitech MX,Aksesoris,4,1299000,10,4676400,Surabaya,Tokopedia,4.4
+ELK-20472,2024-06-18,June,6,Laptop Lenovo IdeaPad,Laptop,1,7499000,0,7499000,Makassar,Website,3.9
+ELK-20383,2024-06-19,June,6,iPad Air,Tablet,2,9999000,15,16998300,Makassar,Shopee,4.3
+ELK-20466,2024-06-19,June,6,Laptop ASUS VivoBook,Laptop,5,8999000,0,44995000,Makassar,Shopee,4.5
+ELK-20481,2024-06-19,June,6,iPad Air,Tablet,1,9999000,20,7999200,Palembang,Shopee,4.2
+ELK-20056,2024-06-20,June,6,Sony WH-1000XM5,Audio,1,4299000,0,4299000,Yogyakarta,Website,4.5
+ELK-20155,2024-06-21,June,6,Laptop Lenovo IdeaPad,Laptop,4,7499000,5,28496200,Jakarta,Shopee,3.9
+ELK-20246,2024-06-21,June,6,TWS Earbuds Xiaomi,Audio,1,399000,10,359100,Surabaya,Tokopedia,4.5
+ELK-20247,2024-06-22,June,6,iPad Air,Tablet,2,9999000,5,18998100,Medan,Shopee,4.7
+ELK-20249,2024-06-22,June,6,Mouse Logitech MX,Aksesoris,1,1299000,0,1299000,Bandung,Tokopedia,4.3
+ELK-20315,2024-06-24,June,6,Samsung Galaxy A55,Smartphone,2,5499000,0,10998000,Medan,Tokopedia,3.8
+ELK-20359,2024-06-26,June,6,Sony WH-1000XM5,Audio,1,4299000,10,3869100,Bandung,Shopee,3.9
+ELK-20045,2024-06-30,June,6,Keyboard Mechanical,Aksesoris,4,899000,0,3596000,Surabaya,Website,4.8
+ELK-20169,2024-06-30,June,6,Mouse Logitech MX,Aksesoris,1,1299000,5,1234050,Medan,Shopee,4.1
+ELK-20478,2024-06-30,June,6,Mouse Logitech MX,Aksesoris,4,1299000,0,5196000,Jakarta,Tokopedia,4.7
+ELK-20007,2024-07-02,July,7,Laptop ASUS VivoBook,Laptop,1,8999000,0,8999000,Bandung,Website,4.3
+ELK-20134,2024-07-02,July,7,iPad Air,Tablet,1,9999000,0,9999000,Makassar,Shopee,4.0
+ELK-20193,2024-07-03,July,7,Laptop ASUS VivoBook,Laptop,2,8999000,0,17998000,Palembang,Shopee,4.8
+ELK-20241,2024-07-03,July,7,Samsung Galaxy A55,Smartphone,1,5499000,5,5224050,Makassar,Website,4.3
+ELK-20016,2024-07-04,July,7,Laptop ASUS VivoBook,Laptop,1,8999000,20,7199200,Surabaya,Shopee,3.8
+ELK-20271,2024-07-05,July,7,TWS Earbuds Xiaomi,Audio,1,399000,10,359100,Medan,Shopee,4.3
+ELK-20405,2024-07-05,July,7,Mouse Logitech MX,Aksesoris,2,1299000,0,2598000,Surabaya,Instagram Shop,4.9
+ELK-20403,2024-07-06,July,7,Mouse Logitech MX,Aksesoris,1,1299000,0,1299000,Yogyakarta,Shopee,4.5
+ELK-20157,2024-07-07,July,7,Sony WH-1000XM5,Audio,1,4299000,0,4299000,Palembang,Shopee,4.2
+ELK-20033,2024-07-08,July,7,Keyboard Mechanical,Aksesoris,1,899000,20,719200,Makassar,Tokopedia,3.9
+ELK-20128,2024-07-09,July,7,Samsung Tab A9,Tablet,1,3299000,0,3299000,Makassar,Shopee,4.6
+ELK-20259,2024-07-09,July,7,Laptop Lenovo IdeaPad,Laptop,1,7499000,15,6374150,Yogyakarta,Website,4.9
+ELK-20484,2024-07-09,July,7,iPhone 15,Smartphone,1,14999000,0,14999000,Medan,Website,4.1
+ELK-20279,2024-07-11,July,7,TWS Earbuds Xiaomi,Audio,3,399000,15,1017450,Semarang,Shopee,3.9
+ELK-20114,2024-07-12,July,7,TWS Earbuds Xiaomi,Audio,1,399000,0,399000,Medan,Instagram Shop,4.2
+ELK-20390,2024-07-12,July,7,Sony WH-1000XM5,Audio,1,4299000,20,3439200,Makassar,Shopee,4.4
+ELK-20075,2024-07-13,July,7,iPhone 15,Smartphone,1,14999000,5,14249050,Semarang,Website,4.1
+ELK-20214,2024-07-13,July,7,Sony WH-1000XM5,Audio,1,4299000,0,4299000,Jakarta,Tokopedia,4.4
+ELK-20120,2024-07-15,July,7,Samsung Galaxy A55,Smartphone,1,5499000,5,5224050,Jakarta,Website,4.1
+ELK-20275,2024-07-15,July,7,Sony WH-1000XM5,Audio,1,4299000,10,3869100,Yogyakarta,Tokopedia,4.4
+ELK-20320,2024-07-16,July,7,iPad Air,Tablet,3,9999000,0,29997000,Makassar,Website,4.9
+ELK-20395,2024-07-16,July,7,Mouse Logitech MX,Aksesoris,1,1299000,5,1234050,Medan,Shopee,4.0
+ELK-20230,2024-07-19,July,7,Laptop Lenovo IdeaPad,Laptop,1,7499000,0,7499000,Makassar,Website,4.7
+ELK-20034,2024-07-21,July,7,iPad Air,Tablet,3,9999000,0,29997000,Makassar,Shopee,4.0
+ELK-20410,2024-07-21,July,7,Mouse Logitech MX,Aksesoris,1,1299000,0,1299000,Semarang,Shopee,4.1
+ELK-20018,2024-07-23,July,7,iPad Air,Tablet,1,9999000,10,8999100,Semarang,Shopee,4.0
+ELK-20058,2024-07-23,July,7,iPad Air,Tablet,1,9999000,15,8499150,Medan,Tokopedia,4.3
+ELK-20099,2024-07-23,July,7,Mouse Logitech MX,Aksesoris,1,1299000,0,1299000,Jakarta,Shopee,4.3
+ELK-20443,2024-07-23,July,7,iPad Air,Tablet,1,9999000,20,7999200,Semarang,Shopee,4.8
+ELK-20263,2024-07-24,July,7,Laptop ASUS VivoBook,Laptop,1,8999000,10,8099100,Surabaya,Instagram Shop,4.5
+ELK-20370,2024-07-24,July,7,Samsung Galaxy A55,Smartphone,1,5499000,20,4399200,Bandung,Shopee,3.9
+ELK-20000,2024-07-25,July,7,iPad Air,Tablet,1,9999000,0,9999000,Bandung,Tokopedia,4.0
+ELK-20326,2024-07-25,July,7,Samsung Galaxy A55,Smartphone,1,5499000,5,5224050,Surabaya,Shopee,3.9
+ELK-20404,2024-07-25,July,7,Laptop ASUS VivoBook,Laptop,2,8999000,5,17098100,Medan,Tokopedia,4.7
+ELK-20360,2024-07-26,July,7,Sony WH-1000XM5,Audio,1,4299000,5,4084050,Bandung,Tokopedia,4.2
+ELK-20256,2024-07-27,July,7,Laptop ASUS VivoBook,Laptop,1,8999000,5,8549050,Yogyakarta,Tokopedia,4.2
+ELK-20385,2024-07-27,July,7,Mouse Logitech MX,Aksesoris,1,1299000,0,1299000,Palembang,Shopee,4.8
+ELK-20458,2024-07-28,July,7,iPad Air,Tablet,1,9999000,15,8499150,Palembang,Shopee,4.5
+ELK-20355,2024-07-29,July,7,Mouse Logitech MX,Aksesoris,1,1299000,10,1169100,Palembang,Shopee,4.6
+ELK-20445,2024-07-30,July,7,Sony WH-1000XM5,Audio,1,4299000,5,4084050,Yogyakarta,Website,4.7
+ELK-20130,2024-07-31,July,7,TWS Earbuds Xiaomi,Audio,1,399000,0,399000,Makassar,Shopee,3.9
+ELK-20406,2024-07-31,July,7,Laptop Lenovo IdeaPad,Laptop,1,7499000,5,7124050,Medan,Instagram Shop,4.6
+ELK-20031,2024-08-01,August,8,Samsung Tab A9,Tablet,1,3299000,15,2804150,Makassar,Tokopedia,3.8
+ELK-20183,2024-08-01,August,8,Laptop Lenovo IdeaPad,Laptop,1,7499000,0,7499000,Jakarta,Tokopedia,4.8
+ELK-20304,2024-08-01,August,8,Laptop Lenovo IdeaPad,Laptop,1,7499000,20,5999200,Bandung,Instagram Shop,4.8
+ELK-20348,2024-08-01,August,8,Samsung Tab A9,Tablet,1,3299000,15,2804150,Semarang,Shopee,4.1
+ELK-20482,2024-08-01,August,8,Laptop ASUS VivoBook,Laptop,1,8999000,20,7199200,Palembang,Tokopedia,4.5
+ELK-20299,2024-08-02,August,8,iPhone 15,Smartphone,1,14999000,15,12749150,Makassar,Tokopedia,4.8
+ELK-20112,2024-08-04,August,8,Laptop Lenovo IdeaPad,Laptop,1,7499000,20,5999200,Bandung,Tokopedia,4.6
+ELK-20160,2024-08-05,August,8,Sony WH-1000XM5,Audio,1,4299000,20,3439200,Jakarta,Tokopedia,4.2
+ELK-20179,2024-08-07,August,8,Laptop ASUS VivoBook,Laptop,2,8999000,10,16198200,Medan,Shopee,4.2
+ELK-20262,2024-08-07,August,8,Mouse Logitech MX,Aksesoris,1,1299000,0,1299000,Palembang,Website,4.8
+ELK-20274,2024-08-09,August,8,Samsung Tab A9,Tablet,1,3299000,5,3134050,Surabaya,Shopee,4.4
+ELK-20060,2024-08-10,August,8,iPhone 15,Smartphone,1,14999000,15,12749150,Jakarta,Website,4.0
+ELK-20296,2024-08-10,August,8,Keyboard Mechanical,Aksesoris,1,899000,10,809100,Surabaya,Tokopedia,4.3
+ELK-20376,2024-08-10,August,8,Samsung Galaxy A55,Smartphone,1,5499000,20,4399200,Palembang,Shopee,4.7
+ELK-20398,2024-08-10,August,8,Keyboard Mechanical,Aksesoris,1,899000,20,719200,Jakarta,Website,4.7
+ELK-20049,2024-08-11,August,8,Laptop Lenovo IdeaPad,Laptop,1,7499000,5,7124050,Bandung,Website,4.0
+ELK-20352,2024-08-11,August,8,TWS Earbuds Xiaomi,Audio,1,399000,20,319200,Semarang,Instagram Shop,4.0
+ELK-20324,2024-08-12,August,8,Laptop ASUS VivoBook,Laptop,1,8999000,15,7649150,Semarang,Shopee,4.0
+ELK-20260,2024-08-13,August,8,Keyboard Mechanical,Aksesoris,1,899000,5,854050,Makassar,Website,4.2
+ELK-20350,2024-08-13,August,8,iPhone 15,Smartphone,1,14999000,0,14999000,Palembang,Tokopedia,4.5
+ELK-20412,2024-08-13,August,8,iPhone 15,Smartphone,1,14999000,0,14999000,Surabaya,Instagram Shop,4.7
+ELK-20063,2024-08-16,August,8,Samsung Galaxy A55,Smartphone,2,5499000,0,10998000,Medan,Shopee,4.0
+ELK-20311,2024-08-16,August,8,Samsung Tab A9,Tablet,2,3299000,5,6268100,Medan,Website,4.3
+ELK-20319,2024-08-16,August,8,Mouse Logitech MX,Aksesoris,1,1299000,20,1039200,Semarang,Tokopedia,5.0
+ELK-20494,2024-08-16,August,8,Samsung Tab A9,Tablet,1,3299000,0,3299000,Bandung,Shopee,4.2
+ELK-20354,2024-08-18,August,8,Samsung Galaxy A55,Smartphone,1,5499000,0,5499000,Palembang,Tokopedia,4.5
+ELK-20173,2024-08-20,August,8,TWS Earbuds Xiaomi,Audio,1,399000,10,359100,Medan,Shopee,4.1
+ELK-20203,2024-08-20,August,8,Mouse Logitech MX,Aksesoris,1,1299000,15,1104150,Semarang,Tokopedia,4.2
+ELK-20310,2024-08-20,August,8,Samsung Galaxy A55,Smartphone,3,5499000,0,16497000,Bandung,Shopee,3.8
+ELK-20407,2024-08-20,August,8,Laptop ASUS VivoBook,Laptop,2,8999000,0,17998000,Palembang,Instagram Shop,4.8
+ELK-20257,2024-08-21,August,8,TWS Earbuds Xiaomi,Audio,1,399000,5,379050,Palembang,Website,4.7
+ELK-20437,2024-08-22,August,8,iPad Air,Tablet,1,9999000,0,9999000,Jakarta,Instagram Shop,4.4
+ELK-20096,2024-08-23,August,8,TWS Earbuds Xiaomi,Audio,1,399000,0,399000,Medan,Shopee,4.0
+ELK-20188,2024-08-25,August,8,Keyboard Mechanical,Aksesoris,1,899000,5,854050,Palembang,Website,4.8
+ELK-20420,2024-08-26,August,8,Laptop ASUS VivoBook,Laptop,1,8999000,0,8999000,Medan,Shopee,4.4
+ELK-20138,2024-08-27,August,8,Laptop Lenovo IdeaPad,Laptop,1,7499000,15,6374150,Surabaya,Website,4.3
+ELK-20469,2024-08-27,August,8,Samsung Galaxy A55,Smartphone,1,5499000,5,5224050,Makassar,Tokopedia,4.2
+ELK-20317,2024-08-28,August,8,Mouse Logitech MX,Aksesoris,1,1299000,0,1299000,Makassar,Shopee,4.6
+ELK-20009,2024-08-30,August,8,iPad Air,Tablet,1,9999000,0,9999000,Yogyakarta,Shopee,4.0
+ELK-20368,2024-08-30,August,8,Laptop ASUS VivoBook,Laptop,1,8999000,5,8549050,Medan,Website,4.7
+ELK-20038,2024-08-31,August,8,Laptop ASUS VivoBook,Laptop,1,8999000,0,8999000,Medan,Instagram Shop,4.4
+ELK-20066,2024-08-31,August,8,Laptop Lenovo IdeaPad,Laptop,1,7499000,0,7499000,Makassar,Tokopedia,4.4
+ELK-20113,2024-08-31,August,8,iPad Air,Tablet,1,9999000,10,8999100,Yogyakarta,Shopee,4.6
+ELK-20228,2024-08-31,August,8,Sony WH-1000XM5,Audio,2,4299000,0,8598000,Palembang,Shopee,4.3
+ELK-20347,2024-08-31,August,8,TWS Earbuds Xiaomi,Audio,1,399000,15,339150,Semarang,Tokopedia,4.8
+ELK-20226,2024-09-02,September,9,Mouse Logitech MX,Aksesoris,1,1299000,15,1104150,Yogyakarta,Tokopedia,4.5
+ELK-20316,2024-09-02,September,9,Mouse Logitech MX,Aksesoris,1,1299000,20,1039200,Yogyakarta,Tokopedia,4.6
+ELK-20436,2024-09-02,September,9,Sony WH-1000XM5,Audio,1,4299000,15,3654150,Jakarta,Website,4.9
+ELK-20330,2024-09-03,September,9,iPhone 15,Smartphone,1,14999000,15,12749150,Bandung,Shopee,5.0
+ELK-20369,2024-09-04,September,9,Samsung Tab A9,Tablet,2,3299000,5,6268100,Jakarta,Instagram Shop,4.1
+ELK-20374,2024-09-04,September,9,Keyboard Mechanical,Aksesoris,2,899000,5,1708100,Semarang,Shopee,4.0
+ELK-20338,2024-09-05,September,9,Laptop Lenovo IdeaPad,Laptop,1,7499000,20,5999200,Medan,Website,4.0
+ELK-20147,2024-09-06,September,9,Mouse Logitech MX,Aksesoris,2,1299000,15,2208300,Makassar,Shopee,4.5
+ELK-20356,2024-09-06,September,9,Samsung Galaxy A55,Smartphone,1,5499000,15,4674150,Bandung,Tokopedia,4.5
+ELK-20448,2024-09-06,September,9,iPad Air,Tablet,1,9999000,10,8999100,Palembang,Tokopedia,4.0
+ELK-20449,2024-09-07,September,9,Samsung Tab A9,Tablet,1,3299000,0,3299000,Bandung,Website,4.9
+ELK-20467,2024-09-07,September,9,Samsung Galaxy A55,Smartphone,1,5499000,10,4949100,Makassar,Tokopedia,4.4
+ELK-20362,2024-09-10,September,9,Mouse Logitech MX,Aksesoris,2,1299000,5,2468100,Bandung,Instagram Shop,4.4
+ELK-20375,2024-09-11,September,9,Laptop ASUS VivoBook,Laptop,1,8999000,15,7649150,Bandung,Website,4.1
+ELK-20029,2024-09-13,September,9,Keyboard Mechanical,Aksesoris,1,899000,0,899000,Jakarta,Shopee,4.9
+ELK-20095,2024-09-13,September,9,TWS Earbuds Xiaomi,Audio,2,399000,10,718200,Makassar,Shopee,4.6
+ELK-20097,2024-09-14,September,9,Laptop Lenovo IdeaPad,Laptop,1,7499000,15,6374150,Semarang,Shopee,3.9
+ELK-20067,2024-09-15,September,9,Keyboard Mechanical,Aksesoris,1,899000,0,899000,Medan,Tokopedia,4.1
+ELK-20269,2024-09-16,September,9,Laptop Lenovo IdeaPad,Laptop,3,7499000,20,17997600,Semarang,Tokopedia,4.0
+ELK-20042,2024-09-18,September,9,Laptop Lenovo IdeaPad,Laptop,1,7499000,15,6374150,Makassar,Tokopedia,4.3
+ELK-20396,2024-09-18,September,9,Sony WH-1000XM5,Audio,1,4299000,20,3439200,Semarang,Website,4.8
+ELK-20200,2024-09-19,September,9,Mouse Logitech MX,Aksesoris,2,1299000,15,2208300,Bandung,Shopee,4.0
+ELK-20223,2024-09-19,September,9,iPhone 15,Smartphone,1,14999000,15,12749150,Semarang,Shopee,4.1
+ELK-20235,2024-09-23,September,9,iPad Air,Tablet,2,9999000,10,17998200,Semarang,Website,4.7
+ELK-20082,2024-09-24,September,9,iPhone 15,Smartphone,2,14999000,15,25498300,Makassar,Tokopedia,4.3
+ELK-20415,2024-09-24,September,9,Mouse Logitech MX,Aksesoris,1,1299000,10,1169100,Bandung,Website,4.0
+ELK-20442,2024-09-24,September,9,Sony WH-1000XM5,Audio,1,4299000,5,4084050,Jakarta,Instagram Shop,4.3
+ELK-20475,2024-09-25,September,9,Laptop Lenovo IdeaPad,Laptop,1,7499000,15,6374150,Semarang,Shopee,4.9
+ELK-20455,2024-09-28,September,9,Samsung Galaxy A55,Smartphone,1,5499000,20,4399200,Surabaya,Shopee,4.3
+ELK-20272,2024-09-29,September,9,Samsung Galaxy A55,Smartphone,1,5499000,15,4674150,Yogyakarta,Shopee,4.2
+ELK-20006,2024-09-30,September,9,Samsung Galaxy A55,Smartphone,2,5499000,10,9898200,Medan,Shopee,5.0
+ELK-20108,2024-09-30,September,9,TWS Earbuds Xiaomi,Audio,1,399000,0,399000,Jakarta,Shopee,4.2
+ELK-20215,2024-09-30,September,9,iPhone 15,Smartphone,6,14999000,10,80994600,Yogyakarta,Shopee,4.6
+ELK-20441,2024-09-30,September,9,TWS Earbuds Xiaomi,Audio,1,399000,20,319200,Makassar,Shopee,4.4
+ELK-20470,2024-09-30,September,9,iPhone 15,Smartphone,2,14999000,10,26998200,Bandung,Website,4.7
+ELK-20159,2024-10-01,October,10,Mouse Logitech MX,Aksesoris,1,1299000,0,1299000,Semarang,Tokopedia,4.9
+ELK-20186,2024-10-01,October,10,iPhone 15,Smartphone,1,14999000,20,11999200,Palembang,Shopee,4.3
+ELK-20295,2024-10-01,October,10,iPad Air,Tablet,1,9999000,10,8999100,Yogyakarta,Tokopedia,4.0
+ELK-20309,2024-10-01,October,10,Samsung Tab A9,Tablet,5,3299000,0,16495000,Yogyakarta,Tokopedia,4.2
+ELK-20163,2024-10-02,October,10,Samsung Galaxy A55,Smartphone,1,5499000,0,5499000,Palembang,Tokopedia,3.9
+ELK-20429,2024-10-03,October,10,iPad Air,Tablet,2,9999000,0,19998000,Jakarta,Shopee,4.9
+ELK-20286,2024-10-06,October,10,Laptop ASUS VivoBook,Laptop,2,8999000,10,16198200,Surabaya,Tokopedia,4.3
+ELK-20339,2024-10-06,October,10,iPhone 15,Smartphone,4,14999000,5,56996200,Medan,Instagram Shop,5.0
+ELK-20057,2024-10-07,October,10,Laptop ASUS VivoBook,Laptop,1,8999000,20,7199200,Jakarta,Website,4.9
+ELK-20098,2024-10-11,October,10,iPad Air,Tablet,1,9999000,0,9999000,Jakarta,Shopee,4.7
+ELK-20332,2024-10-11,October,10,Laptop ASUS VivoBook,Laptop,5,8999000,20,35996000,Medan,Tokopedia,4.0
+ELK-20110,2024-10-12,October,10,TWS Earbuds Xiaomi,Audio,1,399000,5,379050,Bandung,Shopee,4.6
+ELK-20079,2024-10-13,October,10,TWS Earbuds Xiaomi,Audio,1,399000,5,379050,Semarang,Website,4.1
+ELK-20171,2024-10-13,October,10,Laptop ASUS VivoBook,Laptop,2,8999000,0,17998000,Medan,Shopee,4.3
+ELK-20015,2024-10-14,October,10,Sony WH-1000XM5,Audio,1,4299000,10,3869100,Medan,Website,3.9
+ELK-20069,2024-10-16,October,10,Sony WH-1000XM5,Audio,5,4299000,10,19345500,Medan,Tokopedia,4.6
+ELK-20004,2024-10-17,October,10,Sony WH-1000XM5,Audio,1,4299000,0,4299000,Surabaya,Shopee,4.3
+ELK-20040,2024-10-18,October,10,Keyboard Mechanical,Aksesoris,1,899000,5,854050,Jakarta,Shopee,4.3
+ELK-20485,2024-10-18,October,10,Keyboard Mechanical,Aksesoris,4,899000,5,3416200,Palembang,Shopee,4.7
+ELK-20196,2024-10-20,October,10,Laptop ASUS VivoBook,Laptop,1,8999000,10,8099100,Makassar,Shopee,4.4
+ELK-20219,2024-10-20,October,10,Samsung Tab A9,Tablet,3,3299000,0,9897000,Medan,Shopee,4.3
+ELK-20452,2024-10-21,October,10,iPhone 15,Smartphone,1,14999000,0,14999000,Jakarta,Shopee,4.5
+ELK-20088,2024-10-23,October,10,iPhone 15,Smartphone,1,14999000,0,14999000,Surabaya,Website,4.1
+ELK-20402,2024-10-23,October,10,Keyboard Mechanical,Aksesoris,1,899000,0,899000,Palembang,Instagram Shop,3.9
+ELK-20156,2024-10-24,October,10,iPhone 15,Smartphone,1,14999000,0,14999000,Yogyakarta,Instagram Shop,4.1
+ELK-20476,2024-10-24,October,10,iPad Air,Tablet,1,9999000,10,8999100,Makassar,Website,4.3
+ELK-20446,2024-10-25,October,10,Samsung Tab A9,Tablet,4,3299000,5,12536200,Medan,Shopee,3.9
+ELK-20462,2024-10-25,October,10,Laptop Lenovo IdeaPad,Laptop,1,7499000,15,6374150,Semarang,Website,4.4
+ELK-20243,2024-10-26,October,10,TWS Earbuds Xiaomi,Audio,2,399000,10,718200,Surabaya,Shopee,4.0
+ELK-20161,2024-10-28,October,10,Sony WH-1000XM5,Audio,2,4299000,20,6878400,Makassar,Instagram Shop,4.9
+ELK-20185,2024-10-28,October,10,TWS Earbuds Xiaomi,Audio,1,399000,0,399000,Medan,Tokopedia,4.4
+ELK-20245,2024-10-28,October,10,iPad Air,Tablet,1,9999000,20,7999200,Palembang,Tokopedia,4.4
+ELK-20333,2024-10-29,October,10,Samsung Galaxy A55,Smartphone,1,5499000,5,5224050,Palembang,Website,4.9
+ELK-20086,2024-10-31,October,10,Samsung Galaxy A55,Smartphone,2,5499000,20,8798400,Jakarta,Tokopedia,3.9
+ELK-20345,2024-10-31,October,10,iPhone 15,Smartphone,1,14999000,0,14999000,Medan,Tokopedia,4.0
+ELK-20192,2024-11-02,November,11,iPhone 15,Smartphone,1,14999000,0,14999000,Medan,Website,4.7
+ELK-20453,2024-11-02,November,11,Laptop Lenovo IdeaPad,Laptop,1,7499000,20,5999200,Palembang,Website,4.3
+ELK-20013,2024-11-03,November,11,Laptop ASUS VivoBook,Laptop,1,8999000,15,7649150,Yogyakarta,Tokopedia,3.9
+ELK-20298,2024-11-03,November,11,iPad Air,Tablet,1,9999000,15,8499150,Palembang,Instagram Shop,4.9
+ELK-20386,2024-11-03,November,11,Laptop ASUS VivoBook,Laptop,1,8999000,0,8999000,Jakarta,Shopee,4.6
+ELK-20454,2024-11-03,November,11,Laptop Lenovo IdeaPad,Laptop,1,7499000,5,7124050,Yogyakarta,Shopee,4.8
+ELK-20391,2024-11-04,November,11,Laptop Lenovo IdeaPad,Laptop,1,7499000,10,6749100,Jakarta,Instagram Shop,4.2
+ELK-20025,2024-11-05,November,11,Mouse Logitech MX,Aksesoris,5,1299000,20,5196000,Palembang,Tokopedia,4.2
+ELK-20107,2024-11-05,November,11,Sony WH-1000XM5,Audio,1,4299000,15,3654150,Bandung,Website,4.8
+ELK-20212,2024-11-05,November,11,Sony WH-1000XM5,Audio,1,4299000,20,3439200,Bandung,Shopee,4.7
+ELK-20265,2024-11-06,November,11,Laptop Lenovo IdeaPad,Laptop,2,7499000,0,14998000,Surabaya,Tokopedia,4.4
+ELK-20189,2024-11-07,November,11,Samsung Galaxy A55,Smartphone,4,5499000,0,21996000,Surabaya,Website,4.6
+ELK-20258,2024-11-07,November,11,Keyboard Mechanical,Aksesoris,1,899000,0,899000,Palembang,Shopee,4.5
+ELK-20451,2024-11-07,November,11,Laptop Lenovo IdeaPad,Laptop,1,7499000,20,5999200,Makassar,Shopee,5.0
+ELK-20048,2024-11-08,November,11,Laptop ASUS VivoBook,Laptop,1,8999000,5,8549050,Jakarta,Website,4.8
+ELK-20328,2024-11-08,November,11,TWS Earbuds Xiaomi,Audio,1,399000,0,399000,Yogyakarta,Shopee,4.8
+ELK-20064,2024-11-09,November,11,Samsung Galaxy A55,Smartphone,1,5499000,5,5224050,Bandung,Tokopedia,4.5
+ELK-20459,2024-11-09,November,11,Samsung Galaxy A55,Smartphone,1,5499000,0,5499000,Palembang,Tokopedia,4.1
+ELK-20382,2024-11-10,November,11,Keyboard Mechanical,Aksesoris,1,899000,5,854050,Makassar,Website,4.7
+ELK-20137,2024-11-11,November,11,iPhone 15,Smartphone,1,14999000,15,12749150,Yogyakarta,Shopee,4.5
+ELK-20010,2024-11-12,November,11,iPhone 15,Smartphone,2,14999000,10,26998200,Semarang,Tokopedia,4.3
+ELK-20463,2024-11-12,November,11,Keyboard Mechanical,Aksesoris,1,899000,5,854050,Medan,Tokopedia,4.0
+ELK-20077,2024-11-13,November,11,TWS Earbuds Xiaomi,Audio,1,399000,0,399000,Jakarta,Shopee,4.6
+ELK-20409,2024-11-13,November,11,Sony WH-1000XM5,Audio,2,4299000,15,7308300,Medan,Instagram Shop,4.1
+ELK-20106,2024-11-17,November,11,Keyboard Mechanical,Aksesoris,1,899000,15,764150,Yogyakarta,Website,5.0
+ELK-20136,2024-11-18,November,11,Sony WH-1000XM5,Audio,1,4299000,20,3439200,Bandung,Shopee,4.0
+ELK-20280,2024-11-19,November,11,Laptop ASUS VivoBook,Laptop,1,8999000,10,8099100,Surabaya,Shopee,4.1
+ELK-20225,2024-11-20,November,11,iPad Air,Tablet,1,9999000,5,9499050,Jakarta,Tokopedia,4.1
+ELK-20290,2024-11-21,November,11,Mouse Logitech MX,Aksesoris,2,1299000,15,2208300,Jakarta,Instagram Shop,4.0
+ELK-20340,2024-11-21,November,11,Samsung Tab A9,Tablet,1,3299000,15,2804150,Palembang,Shopee,4.9
+ELK-20423,2024-11-21,November,11,Samsung Galaxy A55,Smartphone,2,5499000,0,10998000,Yogyakarta,Shopee,4.9
+ELK-20144,2024-11-22,November,11,iPad Air,Tablet,1,9999000,15,8499150,Yogyakarta,Shopee,4.7
+ELK-20233,2024-11-22,November,11,iPhone 15,Smartphone,2,14999000,20,23998400,Semarang,Tokopedia,4.8
+ELK-20231,2024-11-23,November,11,Laptop ASUS VivoBook,Laptop,4,8999000,0,35996000,Makassar,Tokopedia,4.4
+ELK-20331,2024-11-24,November,11,Keyboard Mechanical,Aksesoris,1,899000,0,899000,Jakarta,Tokopedia,4.2
+ELK-20050,2024-11-25,November,11,Keyboard Mechanical,Aksesoris,1,899000,20,719200,Jakarta,Tokopedia,4.9
+ELK-20399,2024-11-25,November,11,Laptop Lenovo IdeaPad,Laptop,1,7499000,10,6749100,Surabaya,Tokopedia,4.2
+ELK-20158,2024-11-26,November,11,Samsung Tab A9,Tablet,1,3299000,20,2639200,Palembang,Tokopedia,3.8
+ELK-20341,2024-11-27,November,11,Samsung Galaxy A55,Smartphone,1,5499000,15,4674150,Semarang,Shopee,4.9
+ELK-20477,2024-11-27,November,11,Laptop Lenovo IdeaPad,Laptop,1,7499000,20,5999200,Surabaya,Website,4.5
+ELK-20104,2024-11-28,November,11,TWS Earbuds Xiaomi,Audio,1,399000,10,359100,Semarang,Tokopedia,4.0
+ELK-20302,2024-11-28,November,11,Laptop ASUS VivoBook,Laptop,1,8999000,10,8099100,Surabaya,Instagram Shop,4.7
+ELK-20121,2024-11-29,November,11,Samsung Galaxy A55,Smartphone,1,5499000,10,4949100,Makassar,Tokopedia,4.4
+ELK-20166,2024-11-29,November,11,iPhone 15,Smartphone,2,14999000,5,28498100,Semarang,Tokopedia,4.1
+ELK-20182,2024-11-29,November,11,Laptop Lenovo IdeaPad,Laptop,1,7499000,15,6374150,Palembang,Tokopedia,4.8
+ELK-20431,2024-11-29,November,11,Samsung Tab A9,Tablet,1,3299000,10,2969100,Jakarta,Tokopedia,4.3
+ELK-20020,2024-12-01,December,12,Laptop Lenovo IdeaPad,Laptop,3,7499000,20,17997600,Makassar,Tokopedia,4.6
+ELK-20292,2024-12-02,December,12,iPad Air,Tablet,1,9999000,20,7999200,Makassar,Instagram Shop,4.6
+ELK-20191,2024-12-03,December,12,TWS Earbuds Xiaomi,Audio,1,399000,0,399000,Makassar,Shopee,4.6
+ELK-20471,2024-12-03,December,12,Mouse Logitech MX,Aksesoris,3,1299000,0,3897000,Medan,Website,4.1
+ELK-20089,2024-12-07,December,12,Samsung Galaxy A55,Smartphone,1,5499000,0,5499000,Yogyakarta,Website,4.9
+ELK-20460,2024-12-07,December,12,iPhone 15,Smartphone,3,14999000,10,40497300,Palembang,Website,3.9
+ELK-20285,2024-12-08,December,12,Laptop ASUS VivoBook,Laptop,3,8999000,5,25647150,Jakarta,Shopee,4.5
+ELK-20499,2024-12-09,December,12,Keyboard Mechanical,Aksesoris,1,899000,20,719200,Surabaya,Tokopedia,4.7
+ELK-20133,2024-12-11,December,12,iPhone 15,Smartphone,1,14999000,0,14999000,Medan,Tokopedia,4.2
+ELK-20222,2024-12-12,December,12,Laptop ASUS VivoBook,Laptop,3,8999000,0,26997000,Surabaya,Website,5.0
+ELK-20346,2024-12-12,December,12,Sony WH-1000XM5,Audio,1,4299000,0,4299000,Surabaya,Shopee,4.3
+ELK-20254,2024-12-13,December,12,Mouse Logitech MX,Aksesoris,1,1299000,0,1299000,Yogyakarta,Tokopedia,4.4
+ELK-20377,2024-12-14,December,12,Laptop ASUS VivoBook,Laptop,1,8999000,0,8999000,Palembang,Tokopedia,4.4
+ELK-20351,2024-12-15,December,12,Samsung Tab A9,Tablet,4,3299000,15,11216600,Makassar,Shopee,4.3
+ELK-20023,2024-12-16,December,12,Sony WH-1000XM5,Audio,1,4299000,10,3869100,Bandung,Instagram Shop,4.1
+ELK-20408,2024-12-17,December,12,iPhone 15,Smartphone,1,14999000,20,11999200,Jakarta,Website,4.8
+ELK-20111,2024-12-18,December,12,Samsung Galaxy A55,Smartphone,3,5499000,20,13197600,Makassar,Tokopedia,4.9
+ELK-20474,2024-12-18,December,12,Mouse Logitech MX,Aksesoris,1,1299000,15,1104150,Palembang,Shopee,3.9
+ELK-20204,2024-12-19,December,12,iPhone 15,Smartphone,3,14999000,20,35997600,Surabaya,Website,4.7
+ELK-20424,2024-12-21,December,12,Keyboard Mechanical,Aksesoris,1,899000,0,899000,Semarang,Tokopedia,3.9
+ELK-20043,2024-12-22,December,12,iPad Air,Tablet,1,9999000,0,9999000,Medan,Tokopedia,4.0
+ELK-20480,2024-12-22,December,12,iPad Air,Tablet,1,9999000,15,8499150,Palembang,Tokopedia,4.4
+ELK-20329,2024-12-23,December,12,iPhone 15,Smartphone,1,14999000,5,14249050,Palembang,Tokopedia,4.1
+ELK-20037,2024-12-24,December,12,iPad Air,Tablet,1,9999000,0,9999000,Palembang,Shopee,4.6
+ELK-20492,2024-12-24,December,12,iPad Air,Tablet,3,9999000,10,26997300,Semarang,Instagram Shop,4.9
+ELK-20105,2024-12-25,December,12,Sony WH-1000XM5,Audio,6,4299000,20,20635200,Medan,Website,4.8
+ELK-20068,2024-12-26,December,12,iPad Air,Tablet,1,9999000,10,8999100,Surabaya,Tokopedia,4.2
+ELK-20490,2024-12-26,December,12,Keyboard Mechanical,Aksesoris,1,899000,10,809100,Jakarta,Tokopedia,3.8
+ELK-20028,2024-12-27,December,12,Laptop Lenovo IdeaPad,Laptop,4,7499000,10,26996400,Semarang,Shopee,3.8
+ELK-20205,2024-12-27,December,12,TWS Earbuds Xiaomi,Audio,1,399000,15,339150,Medan,Website,4.5
+ELK-20321,2024-12-27,December,12,iPhone 15,Smartphone,1,14999000,10,13499100,Palembang,Tokopedia,4.3
+ELK-20131,2024-12-28,December,12,iPad Air,Tablet,1,9999000,20,7999200,Makassar,Instagram Shop,4.2
+ELK-20229,2024-12-30,December,12,Mouse Logitech MX,Aksesoris,3,1299000,20,3117600,Bandung,Tokopedia,4.4
